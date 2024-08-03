@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+th{
+    border: 2px black solid;
+}
+
+td{
+    border:  2px solid  black;
+}
